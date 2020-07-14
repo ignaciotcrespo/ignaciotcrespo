@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My other github user: https://github.com/ngtignacio
+My other github user: https://github.com/ngtignacio @ngtignacio
 
 
 <!--
